@@ -1,0 +1,203 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: lightgrey;
+}
+.tozalash{
+	clear: both;
+}
+.menu{
+	width: 1140px;
+	margin: 0px auto;
+	background-color: white;
+}
+.block1{
+	height: 560px;
+	background-image: url("images/desktop/image-header.jpg");
+	background-size: 1140px 100%;
+
+}
+.header{
+	padding-top: 20px;	
+}
+.header .logo{
+	float: left;
+	margin-left: 30px;
+}
+.header nav{
+	float: right;
+}
+.header .logo .logo-img{
+	color: white;
+	font-size: 30px;
+	text-decoration: none;
+	font-weight: bold;
+}
+.header nav ul{
+	list-style: none;
+}
+.header nav ul li{
+	margin-right: 20px;
+	float: left;
+}
+.header nav ul li a{
+ 	color: white;
+ 	font-size: 15px;
+ 	text-decoration: none;
+}
+.header nav ul li .activ{
+	padding: 15px;
+	/*font-weight: bolder;*/
+	text-transform: uppercase;
+ 	color: black;
+ 	background-color: white;
+ 	border-radius: 25px;
+ 	font-size: 15px;
+}
+.creativ{
+	margin-top: 80px;
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+}
+.icon-arrow-down{
+	text-align: center;
+	display: block;
+	margin-top: 50px;
+}
+.left, .right{
+	width: 570px;
+	float: left;
+	height: 560px;
+	/*background-color: ivory;*/
+
+}
+.inner{
+	width: 380px;
+	margin: 140px auto;
+}
+.inner .inner_tittle{
+	font-size: 50px;
+	font-weight: bold;
+}
+.inner .inner_text{
+	color: grey;
+	margin-top: 25px;
+}
+.inner .inner_link{
+	margin-top: 40px;
+	display: block;
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 12px;
+}
+.brand{
+	border: 4px solid yellow;
+	width: 80px;
+	margin-top: -5px;
+	border-radius: 5px;
+}
+.brand2{
+	border: 4px solid red;
+	width: 80px;
+	margin-top: -5px;
+	border-radius: 5px;
+}
+.block2 .right{
+	background-image: url("images/desktop/image-transform.jpg");
+}
+.block3 .left{
+	background-image: url("images/desktop/image-stand-out.jpg");
+}
+.block4 .left{
+	background-image: url("images/desktop/image-graphic-design.jpg");
+}
+.block4 .right{
+	background-image: url("images/desktop/image-photography.jpg");
+}
+.block4 .block4_inner{
+	width: 300px;
+	text-align: center;
+	margin: 350px auto;
+}
+.block4 .block4_inner h3{
+	font-size: 25px;
+}
+.block4 .block4_inner p{
+	color: gray;
+	margin-top: 20px;
+}
+.block5 .block5_card{
+	width: 900px;
+	margin: 100px auto;
+}
+.block5_tittle{
+	text-align: center;
+	padding-top: 550px;
+	color: grey;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-weight: bold;
+}
+.block5 .block5_card .block5_in_card{
+	float: left;
+	width: 270px;
+	margin: 15px;
+	text-align: center;
+	margin-top: 100px;	
+}
+.block5 .block5_card .block5_in_card .card_logo img{
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+}
+.block5 .block5_card .block5_in_card .card_text{
+	margin-top: 20px;
+	color: grey;
+}
+.block5 .block5_card .block5_in_card .card_author{
+	color: black;
+	margin-top: 40px;
+	font-weight: bold;
+}
+.block5 .block5_card .block5_in_card .card_direction{
+	color: grey;
+	margin-top: 10px;
+}
+.block6 .logo_inner img{
+	width:285px; 
+	float: left;
+}
+.block7{
+	background-color: hsl(168, 34%, 41%);
+	height: 250px;
+}
+.block7  .ssss{
+	text-align: center;
+	line-height: 100px;
+	color:   hsl(167, 40%, 24%);
+	font-weight: bold;
+	font-size: 25px;
+}
+.block7 .inner_inner .yozuv{
+	color:   hsl(167, 40%, 24%);
+	float: left;
+	margin: 20px;
+}
+.block7 .inner_inner{
+	margin-left: 438px;
+}
+.logo_logo img{
+	margin: 10px;
+}
+.logo_logo{
+	margin-left: 50px;
+	margin-top: 20px;
+}
